@@ -35027,7 +35027,7 @@ l=t.N
 k=P.ao(["Content-Type","application/json"],l,l)
 j=P
 s=9
-return P.T(G.aiW(m,C.Y.oG(P.ao(["assetName",q.d,"bidder",p,"price",P.da(o.a.a,null)],l,t.z),null),k),$async$$0)
+return P.T(G.aiW(m,C.Y.oG(P.ao(["assetName",q.d,"name",p,"price",P.da(o.a.a,null)],l,t.z),null),k),$async$$0)
 case 9:j.c8(b.b)
 K.cj(n,!1).is(0,null)
 P.c8("bid placed")
